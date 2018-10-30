@@ -9,6 +9,7 @@
         <module name="eureka-server" />
         <module name="serice-feign" />
         <module name="service-ribbon" />
+        <module name="service-zuul" />
         <module name="spring_client_demo" />
       </profile>
     </annotationProcessing>
